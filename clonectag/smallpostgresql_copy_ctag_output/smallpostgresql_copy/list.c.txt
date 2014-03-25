@@ -1,0 +1,66 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+IsIntegerList	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	26;"	d	file:
+IsOidList	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	27;"	d	file:
+IsPointerList	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	25;"	d	file:
+add_new_cell	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^add_new_cell(List *list, ListCell *prev_cell)$/;"	f	file:
+check_list_invariants	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^check_list_invariants(List *list)$/;"	f	file:
+check_list_invariants	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	54;"	d	file:
+lappend	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^lappend(List *list, void *datum)$/;"	f
+lappend_cell	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^lappend_cell(List *list, ListCell *prev, void *datum)$/;"	f
+lappend_cell_int	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^lappend_cell_int(List *list, ListCell *prev, int datum)$/;"	f
+lappend_cell_oid	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^lappend_cell_oid(List *list, ListCell *prev, Oid datum)$/;"	f
+lappend_int	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^lappend_int(List *list, int datum)$/;"	f
+lappend_oid	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^lappend_oid(List *list, Oid datum)$/;"	f
+lcons	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^lcons(void *datum, List *list)$/;"	f
+lcons_int	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^lcons_int(int datum, List *list)$/;"	f
+lcons_oid	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^lcons_oid(Oid datum, List *list)$/;"	f
+length	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^length(List *list)$/;"	f
+list_append_unique	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_append_unique(List *list, void *datum)$/;"	f
+list_append_unique_int	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_append_unique_int(List *list, int datum)$/;"	f
+list_append_unique_oid	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_append_unique_oid(List *list, Oid datum)$/;"	f
+list_append_unique_ptr	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_append_unique_ptr(List *list, void *datum)$/;"	f
+list_concat	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_concat(List *list1, List *list2)$/;"	f
+list_concat_unique	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_concat_unique(List *list1, List *list2)$/;"	f
+list_concat_unique_int	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_concat_unique_int(List *list1, List *list2)$/;"	f
+list_concat_unique_oid	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_concat_unique_oid(List *list1, List *list2)$/;"	f
+list_concat_unique_ptr	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_concat_unique_ptr(List *list1, List *list2)$/;"	f
+list_copy	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_copy(List *oldlist)$/;"	f
+list_copy_tail	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_copy_tail(List *oldlist, int nskip)$/;"	f
+list_delete	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_delete(List *list, void *datum)$/;"	f
+list_delete_cell	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_delete_cell(List *list, ListCell *cell, ListCell *prev)$/;"	f
+list_delete_first	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_delete_first(List *list)$/;"	f
+list_delete_int	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_delete_int(List *list, int datum)$/;"	f
+list_delete_oid	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_delete_oid(List *list, Oid datum)$/;"	f
+list_delete_ptr	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_delete_ptr(List *list, void *datum)$/;"	f
+list_difference	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_difference(List *list1, List *list2)$/;"	f
+list_difference_int	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_difference_int(List *list1, List *list2)$/;"	f
+list_difference_oid	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_difference_oid(List *list1, List *list2)$/;"	f
+list_difference_ptr	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_difference_ptr(List *list1, List *list2)$/;"	f
+list_free	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_free(List *list)$/;"	f
+list_free_deep	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_free_deep(List *list)$/;"	f
+list_free_private	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_free_private(List *list, bool deep)$/;"	f	file:
+list_head	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_head(List *l)$/;"	f
+list_intersection	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_intersection(List *list1, List *list2)$/;"	f
+list_length	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_length(List *l)$/;"	f
+list_member	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_member(List *list, void *datum)$/;"	f
+list_member_int	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_member_int(List *list, int datum)$/;"	f
+list_member_oid	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_member_oid(List *list, Oid datum)$/;"	f
+list_member_ptr	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_member_ptr(List *list, void *datum)$/;"	f
+list_nth	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_nth(List *list, int n)$/;"	f
+list_nth_cell	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_nth_cell(List *list, int n)$/;"	f	file:
+list_nth_int	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_nth_int(List *list, int n)$/;"	f
+list_nth_oid	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_nth_oid(List *list, int n)$/;"	f
+list_tail	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_tail(List *l)$/;"	f
+list_truncate	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_truncate(List *list, int new_size)$/;"	f
+list_union	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_union(List *list1, List *list2)$/;"	f
+list_union_int	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_union_int(List *list1, List *list2)$/;"	f
+list_union_oid	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_union_oid(List *list1, List *list2)$/;"	f
+list_union_ptr	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^list_union_ptr(List *list1, List *list2)$/;"	f
+new_head_cell	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^new_head_cell(List *list)$/;"	f	file:
+new_list	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^new_list(NodeTag type)$/;"	f	file:
+new_tail_cell	../sourceFiles/scriptoutput/smallpostgresql_copy/list.c	/^new_tail_cell(List *list)$/;"	f	file:

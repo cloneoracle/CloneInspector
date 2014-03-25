@@ -1,0 +1,171 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+WRITE_BITMAPSET_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	92;"	d	file:
+WRITE_BOOL_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	73;"	d	file:
+WRITE_CHAR_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	60;"	d	file:
+WRITE_ENUM_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	64;"	d	file:
+WRITE_FLOAT_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	69;"	d	file:
+WRITE_INT_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	44;"	d	file:
+WRITE_LOCATION_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	83;"	d	file:
+WRITE_LONG_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	56;"	d	file:
+WRITE_NODE_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	87;"	d	file:
+WRITE_NODE_TYPE	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	40;"	d	file:
+WRITE_OID_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	52;"	d	file:
+WRITE_STRING_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	78;"	d	file:
+WRITE_UINT_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	48;"	d	file:
+_outAConst	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outAConst(StringInfo str, A_Const *node)$/;"	f	file:
+_outAExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outAExpr(StringInfo str, A_Expr *node)$/;"	f	file:
+_outA_ArrayExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outA_ArrayExpr(StringInfo str, A_ArrayExpr *node)$/;"	f	file:
+_outA_Indices	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outA_Indices(StringInfo str, A_Indices *node)$/;"	f	file:
+_outA_Indirection	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outA_Indirection(StringInfo str, A_Indirection *node)$/;"	f	file:
+_outA_Star	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outA_Star(StringInfo str, A_Star *node)$/;"	f	file:
+_outAgg	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outAgg(StringInfo str, Agg *node)$/;"	f	file:
+_outAggref	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outAggref(StringInfo str, Aggref *node)$/;"	f	file:
+_outAlias	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outAlias(StringInfo str, Alias *node)$/;"	f	file:
+_outAlternativeSubPlan	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outAlternativeSubPlan(StringInfo str, AlternativeSubPlan *node)$/;"	f	file:
+_outAppend	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outAppend(StringInfo str, Append *node)$/;"	f	file:
+_outAppendPath	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outAppendPath(StringInfo str, AppendPath *node)$/;"	f	file:
+_outAppendRelInfo	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outAppendRelInfo(StringInfo str, AppendRelInfo *node)$/;"	f	file:
+_outArrayCoerceExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outArrayCoerceExpr(StringInfo str, ArrayCoerceExpr *node)$/;"	f	file:
+_outArrayExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outArrayExpr(StringInfo str, ArrayExpr *node)$/;"	f	file:
+_outArrayRef	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outArrayRef(StringInfo str, ArrayRef *node)$/;"	f	file:
+_outBitmapAnd	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outBitmapAnd(StringInfo str, BitmapAnd *node)$/;"	f	file:
+_outBitmapAndPath	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outBitmapAndPath(StringInfo str, BitmapAndPath *node)$/;"	f	file:
+_outBitmapHeapPath	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outBitmapHeapPath(StringInfo str, BitmapHeapPath *node)$/;"	f	file:
+_outBitmapHeapScan	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outBitmapHeapScan(StringInfo str, BitmapHeapScan *node)$/;"	f	file:
+_outBitmapIndexScan	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outBitmapIndexScan(StringInfo str, BitmapIndexScan *node)$/;"	f	file:
+_outBitmapOr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outBitmapOr(StringInfo str, BitmapOr *node)$/;"	f	file:
+_outBitmapOrPath	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outBitmapOrPath(StringInfo str, BitmapOrPath *node)$/;"	f	file:
+_outBitmapset	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outBitmapset(StringInfo str, Bitmapset *bms)$/;"	f	file:
+_outBoolExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outBoolExpr(StringInfo str, BoolExpr *node)$/;"	f	file:
+_outBooleanTest	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outBooleanTest(StringInfo str, BooleanTest *node)$/;"	f	file:
+_outCaseExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outCaseExpr(StringInfo str, CaseExpr *node)$/;"	f	file:
+_outCaseTestExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outCaseTestExpr(StringInfo str, CaseTestExpr *node)$/;"	f	file:
+_outCaseWhen	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outCaseWhen(StringInfo str, CaseWhen *node)$/;"	f	file:
+_outCoalesceExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outCoalesceExpr(StringInfo str, CoalesceExpr *node)$/;"	f	file:
+_outCoerceToDomain	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outCoerceToDomain(StringInfo str, CoerceToDomain *node)$/;"	f	file:
+_outCoerceToDomainValue	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outCoerceToDomainValue(StringInfo str, CoerceToDomainValue *node)$/;"	f	file:
+_outCoerceViaIO	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outCoerceViaIO(StringInfo str, CoerceViaIO *node)$/;"	f	file:
+_outColumnDef	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outColumnDef(StringInfo str, ColumnDef *node)$/;"	f	file:
+_outColumnRef	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outColumnRef(StringInfo str, ColumnRef *node)$/;"	f	file:
+_outCommonTableExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outCommonTableExpr(StringInfo str, CommonTableExpr *node)$/;"	f	file:
+_outConst	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outConst(StringInfo str, Const *node)$/;"	f	file:
+_outConstraint	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outConstraint(StringInfo str, Constraint *node)$/;"	f	file:
+_outConvertRowtypeExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outConvertRowtypeExpr(StringInfo str, ConvertRowtypeExpr *node)$/;"	f	file:
+_outCreateStmt	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outCreateStmt(StringInfo str, CreateStmt *node)$/;"	f	file:
+_outCteScan	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outCteScan(StringInfo str, CteScan *node)$/;"	f	file:
+_outCurrentOfExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outCurrentOfExpr(StringInfo str, CurrentOfExpr *node)$/;"	f	file:
+_outDatum	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outDatum(StringInfo str, Datum value, int typlen, bool typbyval)$/;"	f	file:
+_outDeclareCursorStmt	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outDeclareCursorStmt(StringInfo str, DeclareCursorStmt *node)$/;"	f	file:
+_outDefElem	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outDefElem(StringInfo str, DefElem *node)$/;"	f	file:
+_outDistinctExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outDistinctExpr(StringInfo str, DistinctExpr *node)$/;"	f	file:
+_outEquivalenceClass	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outEquivalenceClass(StringInfo str, EquivalenceClass *node)$/;"	f	file:
+_outEquivalenceMember	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outEquivalenceMember(StringInfo str, EquivalenceMember *node)$/;"	f	file:
+_outFieldSelect	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outFieldSelect(StringInfo str, FieldSelect *node)$/;"	f	file:
+_outFieldStore	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outFieldStore(StringInfo str, FieldStore *node)$/;"	f	file:
+_outFkConstraint	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outFkConstraint(StringInfo str, FkConstraint *node)$/;"	f	file:
+_outFromExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outFromExpr(StringInfo str, FromExpr *node)$/;"	f	file:
+_outFuncCall	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outFuncCall(StringInfo str, FuncCall *node)$/;"	f	file:
+_outFuncExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outFuncExpr(StringInfo str, FuncExpr *node)$/;"	f	file:
+_outFunctionScan	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outFunctionScan(StringInfo str, FunctionScan *node)$/;"	f	file:
+_outGroup	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outGroup(StringInfo str, Group *node)$/;"	f	file:
+_outHash	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outHash(StringInfo str, Hash *node)$/;"	f	file:
+_outHashJoin	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outHashJoin(StringInfo str, HashJoin *node)$/;"	f	file:
+_outHashPath	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outHashPath(StringInfo str, HashPath *node)$/;"	f	file:
+_outIndexElem	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outIndexElem(StringInfo str, IndexElem *node)$/;"	f	file:
+_outIndexOptInfo	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outIndexOptInfo(StringInfo str, IndexOptInfo *node)$/;"	f	file:
+_outIndexPath	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outIndexPath(StringInfo str, IndexPath *node)$/;"	f	file:
+_outIndexScan	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outIndexScan(StringInfo str, IndexScan *node)$/;"	f	file:
+_outIndexStmt	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outIndexStmt(StringInfo str, IndexStmt *node)$/;"	f	file:
+_outInhRelation	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outInhRelation(StringInfo str, InhRelation *node)$/;"	f	file:
+_outInnerIndexscanInfo	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outInnerIndexscanInfo(StringInfo str, InnerIndexscanInfo *node)$/;"	f	file:
+_outIntoClause	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outIntoClause(StringInfo str, IntoClause *node)$/;"	f	file:
+_outJoin	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outJoin(StringInfo str, Join *node)$/;"	f	file:
+_outJoinExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outJoinExpr(StringInfo str, JoinExpr *node)$/;"	f	file:
+_outJoinPathInfo	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outJoinPathInfo(StringInfo str, JoinPath *node)$/;"	f	file:
+_outJoinPlanInfo	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outJoinPlanInfo(StringInfo str, Join *node)$/;"	f	file:
+_outLimit	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outLimit(StringInfo str, Limit *node)$/;"	f	file:
+_outList	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outList(StringInfo str, List *node)$/;"	f	file:
+_outLockingClause	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outLockingClause(StringInfo str, LockingClause *node)$/;"	f	file:
+_outMaterial	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outMaterial(StringInfo str, Material *node)$/;"	f	file:
+_outMaterialPath	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outMaterialPath(StringInfo str, MaterialPath *node)$/;"	f	file:
+_outMergeJoin	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outMergeJoin(StringInfo str, MergeJoin *node)$/;"	f	file:
+_outMergePath	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outMergePath(StringInfo str, MergePath *node)$/;"	f	file:
+_outMinMaxExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outMinMaxExpr(StringInfo str, MinMaxExpr *node)$/;"	f	file:
+_outNestLoop	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outNestLoop(StringInfo str, NestLoop *node)$/;"	f	file:
+_outNestPath	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outNestPath(StringInfo str, NestPath *node)$/;"	f	file:
+_outNode	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outNode(StringInfo str, void *obj)$/;"	f	file:
+_outNotifyStmt	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outNotifyStmt(StringInfo str, NotifyStmt *node)$/;"	f	file:
+_outNullIfExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outNullIfExpr(StringInfo str, NullIfExpr *node)$/;"	f	file:
+_outNullTest	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outNullTest(StringInfo str, NullTest *node)$/;"	f	file:
+_outOpExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outOpExpr(StringInfo str, OpExpr *node)$/;"	f	file:
+_outParam	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outParam(StringInfo str, Param *node)$/;"	f	file:
+_outParamRef	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outParamRef(StringInfo str, ParamRef *node)$/;"	f	file:
+_outPath	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outPath(StringInfo str, Path *node)$/;"	f	file:
+_outPathInfo	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outPathInfo(StringInfo str, Path *node)$/;"	f	file:
+_outPathKey	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outPathKey(StringInfo str, PathKey *node)$/;"	f	file:
+_outPlaceHolderInfo	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outPlaceHolderInfo(StringInfo str, PlaceHolderInfo *node)$/;"	f	file:
+_outPlaceHolderVar	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outPlaceHolderVar(StringInfo str, PlaceHolderVar *node)$/;"	f	file:
+_outPlan	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outPlan(StringInfo str, Plan *node)$/;"	f	file:
+_outPlanInfo	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outPlanInfo(StringInfo str, Plan *node)$/;"	f	file:
+_outPlanInvalItem	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outPlanInvalItem(StringInfo str, PlanInvalItem *node)$/;"	f	file:
+_outPlannedStmt	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outPlannedStmt(StringInfo str, PlannedStmt *node)$/;"	f	file:
+_outPlannerGlobal	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outPlannerGlobal(StringInfo str, PlannerGlobal *node)$/;"	f	file:
+_outPlannerInfo	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outPlannerInfo(StringInfo str, PlannerInfo *node)$/;"	f	file:
+_outPlannerParamItem	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outPlannerParamItem(StringInfo str, PlannerParamItem *node)$/;"	f	file:
+_outQuery	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outQuery(StringInfo str, Query *node)$/;"	f	file:
+_outRangeFunction	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outRangeFunction(StringInfo str, RangeFunction *node)$/;"	f	file:
+_outRangeSubselect	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outRangeSubselect(StringInfo str, RangeSubselect *node)$/;"	f	file:
+_outRangeTblEntry	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outRangeTblEntry(StringInfo str, RangeTblEntry *node)$/;"	f	file:
+_outRangeTblRef	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outRangeTblRef(StringInfo str, RangeTblRef *node)$/;"	f	file:
+_outRangeVar	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outRangeVar(StringInfo str, RangeVar *node)$/;"	f	file:
+_outRecursiveUnion	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outRecursiveUnion(StringInfo str, RecursiveUnion *node)$/;"	f	file:
+_outRelOptInfo	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outRelOptInfo(StringInfo str, RelOptInfo *node)$/;"	f	file:
+_outRelabelType	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outRelabelType(StringInfo str, RelabelType *node)$/;"	f	file:
+_outResTarget	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outResTarget(StringInfo str, ResTarget *node)$/;"	f	file:
+_outRestrictInfo	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outRestrictInfo(StringInfo str, RestrictInfo *node)$/;"	f	file:
+_outResult	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outResult(StringInfo str, Result *node)$/;"	f	file:
+_outResultPath	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outResultPath(StringInfo str, ResultPath *node)$/;"	f	file:
+_outRowCompareExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outRowCompareExpr(StringInfo str, RowCompareExpr *node)$/;"	f	file:
+_outRowExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outRowExpr(StringInfo str, RowExpr *node)$/;"	f	file:
+_outRowMarkClause	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outRowMarkClause(StringInfo str, RowMarkClause *node)$/;"	f	file:
+_outScalarArrayOpExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outScalarArrayOpExpr(StringInfo str, ScalarArrayOpExpr *node)$/;"	f	file:
+_outScan	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outScan(StringInfo str, Scan *node)$/;"	f	file:
+_outScanInfo	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outScanInfo(StringInfo str, Scan *node)$/;"	f	file:
+_outSelectStmt	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outSelectStmt(StringInfo str, SelectStmt *node)$/;"	f	file:
+_outSeqScan	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outSeqScan(StringInfo str, SeqScan *node)$/;"	f	file:
+_outSetOp	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outSetOp(StringInfo str, SetOp *node)$/;"	f	file:
+_outSetOperationStmt	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outSetOperationStmt(StringInfo str, SetOperationStmt *node)$/;"	f	file:
+_outSetToDefault	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outSetToDefault(StringInfo str, SetToDefault *node)$/;"	f	file:
+_outSort	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outSort(StringInfo str, Sort *node)$/;"	f	file:
+_outSortBy	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outSortBy(StringInfo str, SortBy *node)$/;"	f	file:
+_outSortGroupClause	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outSortGroupClause(StringInfo str, SortGroupClause *node)$/;"	f	file:
+_outSpecialJoinInfo	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outSpecialJoinInfo(StringInfo str, SpecialJoinInfo *node)$/;"	f	file:
+_outSubLink	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outSubLink(StringInfo str, SubLink *node)$/;"	f	file:
+_outSubPlan	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outSubPlan(StringInfo str, SubPlan *node)$/;"	f	file:
+_outSubqueryScan	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outSubqueryScan(StringInfo str, SubqueryScan *node)$/;"	f	file:
+_outTargetEntry	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outTargetEntry(StringInfo str, TargetEntry *node)$/;"	f	file:
+_outTidPath	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outTidPath(StringInfo str, TidPath *node)$/;"	f	file:
+_outTidScan	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outTidScan(StringInfo str, TidScan *node)$/;"	f	file:
+_outToken	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outToken(StringInfo str, char *s)$/;"	f	file:
+_outTypeCast	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outTypeCast(StringInfo str, TypeCast *node)$/;"	f	file:
+_outTypeName	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outTypeName(StringInfo str, TypeName *node)$/;"	f	file:
+_outUnique	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outUnique(StringInfo str, Unique *node)$/;"	f	file:
+_outUniquePath	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outUniquePath(StringInfo str, UniquePath *node)$/;"	f	file:
+_outValue	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outValue(StringInfo str, Value *value)$/;"	f	file:
+_outValuesScan	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outValuesScan(StringInfo str, ValuesScan *node)$/;"	f	file:
+_outVar	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outVar(StringInfo str, Var *node)$/;"	f	file:
+_outWindowAgg	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outWindowAgg(StringInfo str, WindowAgg *node)$/;"	f	file:
+_outWindowClause	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outWindowClause(StringInfo str, WindowClause *node)$/;"	f	file:
+_outWindowDef	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outWindowDef(StringInfo str, WindowDef *node)$/;"	f	file:
+_outWindowFunc	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outWindowFunc(StringInfo str, WindowFunc *node)$/;"	f	file:
+_outWithClause	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outWithClause(StringInfo str, WithClause *node)$/;"	f	file:
+_outWorkTableScan	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outWorkTableScan(StringInfo str, WorkTableScan *node)$/;"	f	file:
+_outXmlExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outXmlExpr(StringInfo str, XmlExpr *node)$/;"	f	file:
+_outXmlSerialize	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^_outXmlSerialize(StringInfo str, XmlSerialize *node)$/;"	f	file:
+booltostr	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	97;"	d	file:
+nodeToString	../sourceFiles/scriptoutput/smallpostgresql_copy/outfuncs.c	/^nodeToString(void *obj)$/;"	f

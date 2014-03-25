@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+SET	../sourceFiles/scriptoutput/smallPython_copy/grpmodule.c	60;"	d	file:
+SET	../sourceFiles/scriptoutput/smallPython_copy/grpmodule.c	75;"	d	file:
+StructGrpType	../sourceFiles/scriptoutput/smallPython_copy/grpmodule.c	/^static PyTypeObject StructGrpType;$/;"	v	file:
+grp_getgrall	../sourceFiles/scriptoutput/smallPython_copy/grpmodule.c	/^grp_getgrall(PyObject *self, PyObject *ignore)$/;"	f	file:
+grp_getgrgid	../sourceFiles/scriptoutput/smallPython_copy/grpmodule.c	/^grp_getgrgid(PyObject *self, PyObject *pyo_id)$/;"	f	file:
+grp_getgrnam	../sourceFiles/scriptoutput/smallPython_copy/grpmodule.c	/^grp_getgrnam(PyObject *self, PyObject *pyo_name)$/;"	f	file:
+grp_methods	../sourceFiles/scriptoutput/smallPython_copy/grpmodule.c	/^static PyMethodDef grp_methods[] = {$/;"	v	file:
+initgrp	../sourceFiles/scriptoutput/smallPython_copy/grpmodule.c	/^initgrp(void)$/;"	f
+initialized	../sourceFiles/scriptoutput/smallPython_copy/grpmodule.c	/^static int initialized;$/;"	v	file:
+mkgrent	../sourceFiles/scriptoutput/smallPython_copy/grpmodule.c	/^mkgrent(struct group *p)$/;"	f	file:
+struct_group_type_desc	../sourceFiles/scriptoutput/smallPython_copy/grpmodule.c	/^static PyStructSequence_Desc struct_group_type_desc = {$/;"	v	file:
+struct_group_type_fields	../sourceFiles/scriptoutput/smallPython_copy/grpmodule.c	/^static PyStructSequence_Field struct_group_type_fields[] = {$/;"	v	file:

@@ -1,0 +1,31 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+APR_WANT_STRFUNC	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	82;"	d	file:
+CORE_PRIVATE	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	89;"	d	file:
+a_file	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^} a_file;$/;"	t	typeref:struct:__anon1	file:
+a_server_config	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^} a_server_config;$/;"	t	typeref:struct:__anon2	file:
+cache_the_file	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^static void cache_the_file(cmd_parms *cmd, const char *filename, int mmap)$/;"	f	file:
+cachefilehandle	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^static const char *cachefilehandle(cmd_parms *cmd, void *dummy, const char *filename)$/;"	f	file:
+cachefilemmap	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^static const char *cachefilemmap(cmd_parms *cmd, void *dummy, const char *filename)$/;"	f	file:
+create_server_config	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^static void *create_server_config(apr_pool_t *p, server_rec *s)$/;"	f	file:
+file	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^    apr_file_t *file;$/;"	m	struct:__anon1	file:
+file_cache_cmds	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^static command_rec file_cache_cmds[] =$/;"	v	file:
+file_cache_handler	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^static int file_cache_handler(request_rec *r)$/;"	f	file:
+file_cache_module	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^module AP_MODULE_DECLARE_DATA file_cache_module =$/;"	v
+file_cache_module	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^module AP_MODULE_DECLARE_DATA file_cache_module;$/;"	v
+file_cache_post_config	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^static int file_cache_post_config(apr_pool_t *p, apr_pool_t *plog,$/;"	f	file:
+file_cache_xlat	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^static int file_cache_xlat(request_rec *r)$/;"	f	file:
+fileht	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^    apr_hash_t *fileht;$/;"	m	struct:__anon2	file:
+filename	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^    const char *filename;$/;"	m	struct:__anon1	file:
+finfo	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^    apr_finfo_t finfo;$/;"	m	struct:__anon1	file:
+is_mmapped	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^    int is_mmapped;$/;"	m	struct:__anon1	file:
+mm	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^    apr_mmap_t *mm;$/;"	m	struct:__anon1	file:
+mmap_handler	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^static int mmap_handler(request_rec *r, a_file *file)$/;"	f	file:
+mtimestr	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^    char mtimestr[APR_RFC822_DATE_LEN];$/;"	m	struct:__anon1	file:
+register_hooks	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^static void register_hooks(apr_pool_t *p)$/;"	f	file:
+sendfile_handler	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^static int sendfile_handler(request_rec *r, a_file *file)$/;"	f	file:
+sizestr	../sourceFiles/scriptoutput/smallApache_copy/mod_file_cache.c	/^    char sizestr[21];   \/* big enough to hold any 64-bit file size + null *\/$/;"	m	struct:__anon1	file:

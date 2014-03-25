@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+PyFPE_counter	../sourceFiles/scriptoutput/smallPython_copy/fpectlmodule.c	/^static int PyFPE_counter = 0;$/;"	v	file:
+PyFPE_jbuf	../sourceFiles/scriptoutput/smallPython_copy/fpectlmodule.c	/^static jmp_buf PyFPE_jbuf;$/;"	v	file:
+Sigfunc	../sourceFiles/scriptoutput/smallPython_copy/fpectlmodule.c	/^typedef void Sigfunc(int);$/;"	t	file:
+__NEW_STARLET	../sourceFiles/scriptoutput/smallPython_copy/fpectlmodule.c	74;"	d	file:
+fpe_error	../sourceFiles/scriptoutput/smallPython_copy/fpectlmodule.c	/^static PyObject *fpe_error;$/;"	v	file:
+fpe_reset	../sourceFiles/scriptoutput/smallPython_copy/fpectlmodule.c	/^static void fpe_reset(Sigfunc *handler)$/;"	f	file:
+fpectl_methods	../sourceFiles/scriptoutput/smallPython_copy/fpectlmodule.c	/^static PyMethodDef fpectl_methods[] = {$/;"	v	file:
+initfpectl	../sourceFiles/scriptoutput/smallPython_copy/fpectlmodule.c	/^PyMODINIT_FUNC initfpectl(void)$/;"	f
+sigfpe_handler	../sourceFiles/scriptoutput/smallPython_copy/fpectlmodule.c	/^static Sigfunc sigfpe_handler;$/;"	v	file:
+sigfpe_handler	../sourceFiles/scriptoutput/smallPython_copy/fpectlmodule.c	/^static void sigfpe_handler(int signo)$/;"	f	file:
+turnoff_sigfpe	../sourceFiles/scriptoutput/smallPython_copy/fpectlmodule.c	/^static PyObject *turnoff_sigfpe(PyObject *self,PyObject *args)$/;"	f	file:
+turnon_sigfpe	../sourceFiles/scriptoutput/smallPython_copy/fpectlmodule.c	/^static PyObject *turnon_sigfpe(PyObject *self,PyObject *args)$/;"	f	file:

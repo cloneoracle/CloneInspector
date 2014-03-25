@@ -1,0 +1,34 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+FUNC1	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	368;"	d	file:
+M_PI	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	8;"	d	file:
+c_acos	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_acos(Py_complex x)$/;"	f	file:
+c_acosh	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_acosh(Py_complex x)$/;"	f	file:
+c_asin	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_asin(Py_complex x)$/;"	f	file:
+c_asinh	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_asinh(Py_complex x)$/;"	f	file:
+c_atan	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_atan(Py_complex x)$/;"	f	file:
+c_atanh	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_atanh(Py_complex x)$/;"	f	file:
+c_cos	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_cos(Py_complex x)$/;"	f	file:
+c_cosh	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_cosh(Py_complex x)$/;"	f	file:
+c_exp	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_exp(Py_complex x)$/;"	f	file:
+c_half	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^static Py_complex c_half = {0.5, 0.};$/;"	v	file:
+c_halfi	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^static Py_complex c_halfi = {0., 0.5};$/;"	v	file:
+c_i	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^static Py_complex c_i = {0., 1.};$/;"	v	file:
+c_log	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_log(Py_complex x)$/;"	f	file:
+c_log10	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_log10(Py_complex x)$/;"	f	file:
+c_one	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^static Py_complex c_one = {1., 0.};$/;"	v	file:
+c_prodi	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_prodi(Py_complex x)$/;"	f	file:
+c_sin	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_sin(Py_complex x)$/;"	f	file:
+c_sinh	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_sinh(Py_complex x)$/;"	f	file:
+c_sqrt	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_sqrt(Py_complex x)$/;"	f	file:
+c_tan	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_tan(Py_complex x)$/;"	f	file:
+c_tanh	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^c_tanh(Py_complex x)$/;"	f	file:
+cmath_log	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^cmath_log(PyObject *self, PyObject *args)$/;"	f	file:
+cmath_methods	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^static PyMethodDef cmath_methods[] = {$/;"	v	file:
+initcmath	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^initcmath(void)$/;"	f
+math_1	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^math_1(PyObject *args, Py_complex (*func)(Py_complex))$/;"	f	file:
+math_error	../sourceFiles/scriptoutput/smallPython_copy/cmathmodule.c	/^math_error(void)$/;"	f	file:

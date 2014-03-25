@@ -1,0 +1,61 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AudioopError	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^static PyObject *AudioopError;$/;"	v	file:
+BIAS	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	41;"	d	file:
+CHARP	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	290;"	d	file:
+CLIP	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	42;"	d	file:
+LONGP	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	292;"	d	file:
+PyInt16	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^typedef short PyInt16;$/;"	t	file:
+Py_Int32	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^typedef int Py_Int32;$/;"	t	file:
+Py_Int32	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^typedef long Py_Int32;$/;"	t	file:
+Py_UInt32	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^typedef unsigned int Py_UInt32;$/;"	t	file:
+Py_UInt32	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^typedef unsigned long Py_UInt32;$/;"	t	file:
+QUANT_MASK	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	44;"	d	file:
+SEG_MASK	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	46;"	d	file:
+SEG_SHIFT	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	45;"	d	file:
+SHORTP	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	291;"	d	file:
+SIGN_BIT	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	43;"	d	file:
+_st_alaw2linear16	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^static PyInt16 _st_alaw2linear16[256] = {$/;"	v	file:
+_st_ulaw2linear16	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^static PyInt16 _st_ulaw2linear16[256] = {$/;"	v	file:
+_sum2	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^static double _sum2(short *a, short *b, int len)$/;"	f	file:
+audioop_add	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_add(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_adpcm2lin	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_adpcm2lin(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_alaw2lin	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_alaw2lin(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_avg	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_avg(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_avgpp	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_avgpp(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_bias	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_bias(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_cross	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_cross(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_findfactor	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_findfactor(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_findfit	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_findfit(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_findmax	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_findmax(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_getsample	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_getsample(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_lin2adpcm	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_lin2adpcm(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_lin2alaw	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_lin2alaw(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_lin2lin	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_lin2lin(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_lin2ulaw	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_lin2ulaw(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_max	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_max(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_maxpp	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_maxpp(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_methods	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^static PyMethodDef audioop_methods[] = {$/;"	v	file:
+audioop_minmax	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_minmax(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_mul	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_mul(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_ratecv	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_ratecv(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_reverse	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_reverse(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_rms	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_rms(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_tomono	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_tomono(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_tostereo	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_tostereo(PyObject *self, PyObject *args)$/;"	f	file:
+audioop_ulaw2lin	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^audioop_ulaw2lin(PyObject *self, PyObject *args)$/;"	f	file:
+gcd	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^gcd(int a, int b)$/;"	f	file:
+indexTable	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^static int indexTable[16] = {$/;"	v	file:
+initaudioop	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^initaudioop(void)$/;"	f
+search	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^search(PyInt16 val, PyInt16 *table, int size)$/;"	f	file:
+seg_aend	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^static PyInt16 seg_aend[8] = {0x1F, 0x3F, 0x7F, 0xFF,$/;"	v	file:
+seg_uend	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^static PyInt16 seg_uend[8] = {0x3F, 0x7F, 0xFF, 0x1FF,$/;"	v	file:
+st_14linear2ulaw	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^st_14linear2ulaw(PyInt16 pcm_val)	\/* 2's complement (14-bit range) *\/$/;"	f	file:
+st_alaw2linear16	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	65;"	d	file:
+st_linear2alaw	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^st_linear2alaw(PyInt16 pcm_val)	\/* 2's complement (13-bit range) *\/$/;"	f	file:
+st_ulaw2linear16	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	64;"	d	file:
+stepsizeTable	../sourceFiles/scriptoutput/smallPython_copy/audioop.c	/^static int stepsizeTable[89] = {$/;"	v	file:

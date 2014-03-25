@@ -1,0 +1,35 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CORE_PRIVATE	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	17;"	d	file:
+add_cache_disable	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static const char *add_cache_disable(cmd_parms *parms, void *dummy,$/;"	f	file:
+add_cache_enable	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static const char *add_cache_enable(cmd_parms *parms, void *dummy,$/;"	f	file:
+add_ignore_header	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static const char *add_ignore_header(cmd_parms *parms, void *dummy,$/;"	f	file:
+add_ignore_session_id	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static const char *add_ignore_session_id(cmd_parms *parms, void *dummy,$/;"	f	file:
+cache_cmds	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static const command_rec cache_cmds[] =$/;"	v	file:
+cache_module	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^module AP_MODULE_DECLARE_DATA cache_module =$/;"	v
+cache_module	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^module AP_MODULE_DECLARE_DATA cache_module;$/;"	v
+cache_out_filter	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static int cache_out_filter(ap_filter_t *f, apr_bucket_brigade *bb)$/;"	f	file:
+cache_out_filter_handle	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static ap_filter_rec_t *cache_out_filter_handle;$/;"	v	file:
+cache_out_subreq_filter_handle	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static ap_filter_rec_t *cache_out_subreq_filter_handle;$/;"	v	file:
+cache_post_config	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static int cache_post_config(apr_pool_t *p, apr_pool_t *plog,$/;"	f	file:
+cache_remove_url_filter	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static int cache_remove_url_filter(ap_filter_t *f, apr_bucket_brigade *in)$/;"	f	file:
+cache_remove_url_filter_handle	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static ap_filter_rec_t *cache_remove_url_filter_handle;$/;"	v	file:
+cache_save_filter	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static int cache_save_filter(ap_filter_t *f, apr_bucket_brigade *in)$/;"	f	file:
+cache_save_filter_handle	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static ap_filter_rec_t *cache_save_filter_handle;$/;"	v	file:
+cache_save_subreq_filter_handle	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static ap_filter_rec_t *cache_save_subreq_filter_handle;$/;"	v	file:
+cache_url_handler	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static int cache_url_handler(request_rec *r, int lookup)$/;"	f	file:
+create_cache_config	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static void * create_cache_config(apr_pool_t *p, server_rec *s)$/;"	f	file:
+merge_cache_config	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static void * merge_cache_config(apr_pool_t *p, void *basev, void *overridesv)$/;"	f	file:
+register_hooks	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static void register_hooks(apr_pool_t *p)$/;"	f	file:
+set_cache_defex	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static const char *set_cache_defex(cmd_parms *parms, void *dummy,$/;"	f	file:
+set_cache_factor	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static const char *set_cache_factor(cmd_parms *parms, void *dummy,$/;"	f	file:
+set_cache_ignore_cachecontrol	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static const char *set_cache_ignore_cachecontrol(cmd_parms *parms,$/;"	f	file:
+set_cache_ignore_no_last_mod	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static const char *set_cache_ignore_no_last_mod(cmd_parms *parms, void *dummy,$/;"	f	file:
+set_cache_ignore_querystring	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static const char *set_cache_ignore_querystring(cmd_parms *parms, void *dummy,$/;"	f	file:
+set_cache_maxex	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static const char *set_cache_maxex(cmd_parms *parms, void *dummy,$/;"	f	file:
+set_cache_store_nostore	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static const char *set_cache_store_nostore(cmd_parms *parms, void *dummy,$/;"	f	file:
+set_cache_store_private	../sourceFiles/scriptoutput/smallApache_copy/mod_cache.c	/^static const char *set_cache_store_private(cmd_parms *parms, void *dummy,$/;"	f	file:

@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+INS	../sourceFiles/scriptoutput/smallPython_copy/fcntlmodule.c	425;"	d	file:
+IOCTL_BUFSZ	../sourceFiles/scriptoutput/smallPython_copy/fcntlmodule.c	202;"	d	file:
+IOCTL_BUFSZ	../sourceFiles/scriptoutput/smallPython_copy/fcntlmodule.c	98;"	d	file:
+PY_SSIZE_T_CLEAN	../sourceFiles/scriptoutput/smallPython_copy/fcntlmodule.c	4;"	d	file:
+all_ins	../sourceFiles/scriptoutput/smallPython_copy/fcntlmodule.c	/^all_ins(PyObject* d)$/;"	f	file:
+conv_descriptor	../sourceFiles/scriptoutput/smallPython_copy/fcntlmodule.c	/^conv_descriptor(PyObject *object, int *target)$/;"	f	file:
+fcntl_fcntl	../sourceFiles/scriptoutput/smallPython_copy/fcntlmodule.c	/^fcntl_fcntl(PyObject *self, PyObject *args)$/;"	f	file:
+fcntl_flock	../sourceFiles/scriptoutput/smallPython_copy/fcntlmodule.c	/^fcntl_flock(PyObject *self, PyObject *args)$/;"	f	file:
+fcntl_ioctl	../sourceFiles/scriptoutput/smallPython_copy/fcntlmodule.c	/^fcntl_ioctl(PyObject *self, PyObject *args)$/;"	f	file:
+fcntl_lockf	../sourceFiles/scriptoutput/smallPython_copy/fcntlmodule.c	/^fcntl_lockf(PyObject *self, PyObject *args)$/;"	f	file:
+fcntl_methods	../sourceFiles/scriptoutput/smallPython_copy/fcntlmodule.c	/^static PyMethodDef fcntl_methods[] = {$/;"	v	file:
+initfcntl	../sourceFiles/scriptoutput/smallPython_copy/fcntlmodule.c	/^initfcntl(void)$/;"	f
+ins	../sourceFiles/scriptoutput/smallPython_copy/fcntlmodule.c	/^ins(PyObject* d, char* symbol, long value)$/;"	f	file:

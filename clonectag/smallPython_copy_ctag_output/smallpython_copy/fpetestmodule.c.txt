@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+db0	../sourceFiles/scriptoutput/smallPython_copy/fpetestmodule.c	/^static double db0(double x)$/;"	f	file:
+fpe_error	../sourceFiles/scriptoutput/smallPython_copy/fpetestmodule.c	/^static PyObject *fpe_error;$/;"	v	file:
+fpetest_methods	../sourceFiles/scriptoutput/smallPython_copy/fpetestmodule.c	/^static PyMethodDef fpetest_methods[] = {$/;"	v	file:
+initfpetest	../sourceFiles/scriptoutput/smallPython_copy/fpetestmodule.c	/^PyMODINIT_FUNC initfpetest(void)$/;"	f
+nest1	../sourceFiles/scriptoutput/smallPython_copy/fpetestmodule.c	/^static double nest1(int i, double x)$/;"	f	file:
+nest2	../sourceFiles/scriptoutput/smallPython_copy/fpetestmodule.c	/^static double nest2(int i, double x)$/;"	f	file:
+nest3	../sourceFiles/scriptoutput/smallPython_copy/fpetestmodule.c	/^static double nest3(double x)$/;"	f	file:
+overflow	../sourceFiles/scriptoutput/smallPython_copy/fpetestmodule.c	/^static double overflow(double b)$/;"	f	file:
+printerr	../sourceFiles/scriptoutput/smallPython_copy/fpetestmodule.c	/^static void printerr(double r)$/;"	f	file:
+test	../sourceFiles/scriptoutput/smallPython_copy/fpetestmodule.c	/^static PyObject *test(PyObject *self,PyObject *args)$/;"	f	file:

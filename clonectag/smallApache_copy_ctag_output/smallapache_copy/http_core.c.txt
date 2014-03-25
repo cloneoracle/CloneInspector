@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+APR_WANT_STRFUNC	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	20;"	d	file:
+CORE_PRIVATE	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	23;"	d	file:
+ap_byterange_filter_handle	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^AP_DECLARE_DATA ap_filter_rec_t *ap_byterange_filter_handle;$/;"	v
+ap_chunk_filter_handle	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^AP_DECLARE_DATA ap_filter_rec_t *ap_chunk_filter_handle;$/;"	v
+ap_http_header_filter_handle	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^AP_DECLARE_DATA ap_filter_rec_t *ap_http_header_filter_handle;$/;"	v
+ap_http_input_filter_handle	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^AP_DECLARE_DATA ap_filter_rec_t *ap_http_input_filter_handle;$/;"	v
+ap_http_outerror_filter_handle	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^AP_DECLARE_DATA ap_filter_rec_t *ap_http_outerror_filter_handle;$/;"	v
+ap_process_http_async_connection	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^static int ap_process_http_async_connection(conn_rec *c)$/;"	f	file:
+ap_process_http_connection	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^static int ap_process_http_connection(conn_rec *c)$/;"	f	file:
+http_cmds	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^static const command_rec http_cmds[] = {$/;"	v	file:
+http_create_request	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^static int http_create_request(request_rec *r)$/;"	f	file:
+http_module	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^module AP_MODULE_DECLARE_DATA http_module = {$/;"	v
+http_port	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^static apr_port_t http_port(const request_rec *r)$/;"	f	file:
+http_scheme	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^static const char *http_scheme(const request_rec *r)$/;"	f	file:
+http_send_options	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^static int http_send_options(request_rec *r)$/;"	f	file:
+register_hooks	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^static void register_hooks(apr_pool_t *p)$/;"	f	file:
+set_keep_alive	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^static const char *set_keep_alive(cmd_parms *cmd, void *dummy,$/;"	f	file:
+set_keep_alive_max	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^static const char *set_keep_alive_max(cmd_parms *cmd, void *dummy,$/;"	f	file:
+set_keep_alive_timeout	../sourceFiles/scriptoutput/smallApache_copy/http_core.c	/^static const char *set_keep_alive_timeout(cmd_parms *cmd, void *dummy,$/;"	f	file:

@@ -1,0 +1,32 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+pq_beginmessage	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_beginmessage(StringInfo buf, char msgtype)$/;"	f
+pq_begintypsend	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_begintypsend(StringInfo buf)$/;"	f
+pq_copymsgbytes	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_copymsgbytes(StringInfo msg, char *buf, int datalen)$/;"	f
+pq_endmessage	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_endmessage(StringInfo buf)$/;"	f
+pq_endtypsend	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_endtypsend(StringInfo buf)$/;"	f
+pq_getmsgbyte	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_getmsgbyte(StringInfo msg)$/;"	f
+pq_getmsgbytes	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_getmsgbytes(StringInfo msg, int datalen)$/;"	f
+pq_getmsgend	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_getmsgend(StringInfo msg)$/;"	f
+pq_getmsgfloat4	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_getmsgfloat4(StringInfo msg)$/;"	f
+pq_getmsgfloat8	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_getmsgfloat8(StringInfo msg)$/;"	f
+pq_getmsgint	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_getmsgint(StringInfo msg, int b)$/;"	f
+pq_getmsgint64	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_getmsgint64(StringInfo msg)$/;"	f
+pq_getmsgstring	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_getmsgstring(StringInfo msg)$/;"	f
+pq_getmsgtext	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_getmsgtext(StringInfo msg, int rawbytes, int *nbytes)$/;"	f
+pq_putemptymessage	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_putemptymessage(char msgtype)$/;"	f
+pq_puttextmessage	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_puttextmessage(char msgtype, const char *str)$/;"	f
+pq_send_ascii_string	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_send_ascii_string(StringInfo buf, const char *str)$/;"	f
+pq_sendbyte	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_sendbyte(StringInfo buf, int byt)$/;"	f
+pq_sendbytes	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_sendbytes(StringInfo buf, const char *data, int datalen)$/;"	f
+pq_sendcountedtext	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_sendcountedtext(StringInfo buf, const char *str, int slen,$/;"	f
+pq_sendfloat4	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_sendfloat4(StringInfo buf, float4 f)$/;"	f
+pq_sendfloat8	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_sendfloat8(StringInfo buf, float8 f)$/;"	f
+pq_sendint	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_sendint(StringInfo buf, int i, int b)$/;"	f
+pq_sendint64	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_sendint64(StringInfo buf, int64 i)$/;"	f
+pq_sendstring	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_sendstring(StringInfo buf, const char *str)$/;"	f
+pq_sendtext	../sourceFiles/scriptoutput/smallpostgresql_copy/pqformat.c	/^pq_sendtext(StringInfo buf, const char *str, int slen)$/;"	f

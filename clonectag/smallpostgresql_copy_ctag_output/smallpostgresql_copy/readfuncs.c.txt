@@ -1,0 +1,79 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+MATCH	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	1175;"	d	file:
+READ_BITMAPSET_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	118;"	d	file:
+READ_BOOL_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	95;"	d	file:
+READ_CHAR_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	77;"	d	file:
+READ_DONE	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	123;"	d	file:
+READ_ENUM_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	83;"	d	file:
+READ_FLOAT_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	89;"	d	file:
+READ_INT_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	59;"	d	file:
+READ_LOCALS	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	54;"	d	file:
+READ_LOCALS_NO_FIELDS	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	45;"	d	file:
+READ_LOCATION_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	107;"	d	file:
+READ_NODE_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	113;"	d	file:
+READ_OID_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	71;"	d	file:
+READ_STRING_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	101;"	d	file:
+READ_TEMP_LOCALS	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	49;"	d	file:
+READ_UINT_FIELD	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	65;"	d	file:
+_readAggref	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readAggref(void)$/;"	f	file:
+_readAlias	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readAlias(void)$/;"	f	file:
+_readArrayCoerceExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readArrayCoerceExpr(void)$/;"	f	file:
+_readArrayExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readArrayExpr(void)$/;"	f	file:
+_readArrayRef	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readArrayRef(void)$/;"	f	file:
+_readBitmapset	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readBitmapset(void)$/;"	f	file:
+_readBoolExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readBoolExpr(void)$/;"	f	file:
+_readBooleanTest	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readBooleanTest(void)$/;"	f	file:
+_readCaseExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readCaseExpr(void)$/;"	f	file:
+_readCaseTestExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readCaseTestExpr(void)$/;"	f	file:
+_readCaseWhen	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readCaseWhen(void)$/;"	f	file:
+_readCoalesceExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readCoalesceExpr(void)$/;"	f	file:
+_readCoerceToDomain	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readCoerceToDomain(void)$/;"	f	file:
+_readCoerceToDomainValue	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readCoerceToDomainValue(void)$/;"	f	file:
+_readCoerceViaIO	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readCoerceViaIO(void)$/;"	f	file:
+_readCommonTableExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readCommonTableExpr(void)$/;"	f	file:
+_readConst	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readConst(void)$/;"	f	file:
+_readConvertRowtypeExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readConvertRowtypeExpr(void)$/;"	f	file:
+_readCurrentOfExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readCurrentOfExpr(void)$/;"	f	file:
+_readDeclareCursorStmt	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readDeclareCursorStmt(void)$/;"	f	file:
+_readDistinctExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readDistinctExpr(void)$/;"	f	file:
+_readFieldSelect	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readFieldSelect(void)$/;"	f	file:
+_readFieldStore	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readFieldStore(void)$/;"	f	file:
+_readFromExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readFromExpr(void)$/;"	f	file:
+_readFuncExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readFuncExpr(void)$/;"	f	file:
+_readIntoClause	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readIntoClause(void)$/;"	f	file:
+_readJoinExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readJoinExpr(void)$/;"	f	file:
+_readMinMaxExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readMinMaxExpr(void)$/;"	f	file:
+_readNotifyStmt	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readNotifyStmt(void)$/;"	f	file:
+_readNullIfExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readNullIfExpr(void)$/;"	f	file:
+_readNullTest	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readNullTest(void)$/;"	f	file:
+_readOpExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readOpExpr(void)$/;"	f	file:
+_readParam	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readParam(void)$/;"	f	file:
+_readQuery	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readQuery(void)$/;"	f	file:
+_readRangeTblEntry	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readRangeTblEntry(void)$/;"	f	file:
+_readRangeTblRef	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readRangeTblRef(void)$/;"	f	file:
+_readRangeVar	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readRangeVar(void)$/;"	f	file:
+_readRelabelType	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readRelabelType(void)$/;"	f	file:
+_readRowCompareExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readRowCompareExpr(void)$/;"	f	file:
+_readRowExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readRowExpr(void)$/;"	f	file:
+_readRowMarkClause	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readRowMarkClause(void)$/;"	f	file:
+_readScalarArrayOpExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readScalarArrayOpExpr(void)$/;"	f	file:
+_readSetOperationStmt	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readSetOperationStmt(void)$/;"	f	file:
+_readSetToDefault	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readSetToDefault(void)$/;"	f	file:
+_readSortGroupClause	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readSortGroupClause(void)$/;"	f	file:
+_readSubLink	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readSubLink(void)$/;"	f	file:
+_readTargetEntry	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readTargetEntry(void)$/;"	f	file:
+_readVar	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readVar(void)$/;"	f	file:
+_readWindowClause	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readWindowClause(void)$/;"	f	file:
+_readWindowFunc	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readWindowFunc(void)$/;"	f	file:
+_readXmlExpr	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^_readXmlExpr(void)$/;"	f	file:
+atooid	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	135;"	d	file:
+atoui	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	133;"	d	file:
+nullable_string	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	139;"	d	file:
+parseNodeString	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^parseNodeString(void)$/;"	f
+readDatum	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	/^readDatum(bool typbyval)$/;"	f	file:
+strtobool	../sourceFiles/scriptoutput/smallpostgresql_copy/readfuncs.c	137;"	d	file:
