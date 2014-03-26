@@ -1,14 +1,12 @@
-CloneDiff is a tool for analyzing segments of source code and manually determining if two compared methods are code clones. 
+CloneInspector is a tool for analyzing segments of source code and manually determining if two compared methods are code clones. 
 
 
 
 Building:
 - You may need to add "jxl.jar" and "jsyntaxpane-0.9.5-b29.jar" to the build path 
 
-
-
 Running:
-- Run the application by invoking the graphicdiff.Main
+- Run the application by invoking the CloneInspector.Main
 
 
 
