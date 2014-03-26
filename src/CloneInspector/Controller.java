@@ -1,4 +1,4 @@
-package graphicdiff;
+package CloneInspector;
 
 import model.Model;
 import java.awt.event.ActionEvent;
@@ -40,8 +40,7 @@ public class Controller {
     
 
     class cloneChangeListener implements ActionListener {
-    	@Override
-        public void actionPerformed(ActionEvent e) {
+    	public void actionPerformed(ActionEvent e) {
     		// update the record - This is done here as well because the user cannot always 
     		//-		move backwards and forwards, or simply may just not complete this task
     		
@@ -53,7 +52,6 @@ public class Controller {
     // Inner Classes
         // All need callbacks on actionPerformed - finish later
     class browseListener implements ActionListener {
-        @Override
         public void actionPerformed(ActionEvent e) {
         	
         	// Have the user initially look in the reports directory
@@ -107,7 +105,6 @@ public class Controller {
 
     // Cycle "right" button is clicked
     class rightListener implements ActionListener {
-        @Override
         public void actionPerformed(ActionEvent e) { 
 
         	// Try Saving information
@@ -133,7 +130,6 @@ public class Controller {
     
     // Cycle "left" button is clicked
     class leftListener implements ActionListener {
-        @Override
         public void actionPerformed(ActionEvent e) { 
         	    	
         	// Enable and disable back and forward buttons
@@ -162,7 +158,6 @@ public class Controller {
     }
     
     class skipListener implements ActionListener {
-        @Override
         public void actionPerformed(ActionEvent e) {
             //System.out.println("Skip");
             String skipNumber = view.getSkipField();

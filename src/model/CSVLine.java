@@ -2,7 +2,7 @@ package model;
 
 public class CSVLine {
     
-	graphicdiff.Util util = new graphicdiff.Util();
+	CloneInspector.Util util = new CloneInspector.Util();
     
     private String fullLine = "";
     int lineNumber = 0;

@@ -1,4 +1,4 @@
-package graphicdiff;
+package CloneInspector;
 
 import model.CSVLine;
 import model.Model;

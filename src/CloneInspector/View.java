@@ -1,4 +1,4 @@
-package graphicdiff;
+package CloneInspector;
 
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
@@ -174,7 +174,7 @@ public class View extends JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         
         // Set layout for west pane (Buttons and stuff)
-        leftPanel.setBorder(javax.swing.BorderFactory.createTitledBorder("CloneDiff - Daniel Krutz"));
+        leftPanel.setBorder(javax.swing.BorderFactory.createTitledBorder("CloneInspector"));
         leftPanel.setLayout(new java.awt.GridLayout(10, 1));
 
         browse.setText("Browse (CSV)");

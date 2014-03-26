@@ -37,7 +37,7 @@ public class Model {
     private HashMap<String, String> clonesTypesMap = new HashMap();
     
     int currentLine = 0;
-    graphicdiff.Util util = new graphicdiff.Util(); // Reference utility class
+    CloneInspector.Util util = new CloneInspector.Util(); // Reference utility class
     
     // Takes in the directory of the CSV file
     public void processFile(File file) {

@@ -1,4 +1,4 @@
-package graphicdiff;
+package CloneInspector;
 
 import java.io.File;
 import model.Model;

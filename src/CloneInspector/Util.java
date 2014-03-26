@@ -1,7 +1,7 @@
 // Helper class
 
 
-package graphicdiff;
+package CloneInspector;
 
 public class Util {
 
